@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "167071741830",
+    "project_id": "netscoreapp",
+    "storage_bucket": "netscoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167071741830:android:11fb512ee12c1de6905e07",
+        "android_client_info": {
+          "package_name": "com.firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167071741830-3hj614q83nree6h3qo4goqe3psg2heed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFs8TIBF3D-N8OgDCeoVVrAmsHayr2Pj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167071741830-3hj614q83nree6h3qo4goqe3psg2heed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167071741830-uru5uhc3oci9r5sg8lth7ijsv1thpasi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netscore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167071741830:android:092f7f8c558e2c41905e07",
+        "android_client_info": {
+          "package_name": "com.netscorerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167071741830-3hj614q83nree6h3qo4goqe3psg2heed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFs8TIBF3D-N8OgDCeoVVrAmsHayr2Pj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167071741830-3hj614q83nree6h3qo4goqe3psg2heed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167071741830-uru5uhc3oci9r5sg8lth7ijsv1thpasi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netscore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
